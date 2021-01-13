@@ -1,5 +1,7 @@
 # Predicting future frames using retrospective GAN
 
+Made in Python 3.7
+
 Part of Winter of GANs
 
 This repository consist of the implementation of CVPR - 2019 paper - Predicting-Future-Frames-using-Retrospective-Cycle-GAN
